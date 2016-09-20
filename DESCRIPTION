@@ -1,0 +1,9 @@
+Package: CoolFiles
+Type: Package
+Title: Write Cool Files
+Version: 0.1.0
+Author: James Moore
+Maintainer: James Moore <clesiemo3@gmail.com>
+Description: Writes files with impressive separating values and file extensions
+License: MIT
+LazyData: TRUE
